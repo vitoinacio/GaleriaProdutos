@@ -25,13 +25,18 @@
 }
 
 @media screen and (max-width: 529px) {
+
+  .contato {
+    gap: 1rem;
+  }
+
   .dados li {
     font-size: .7rem;
   }
 
   .dados li::before {
-    width: 10px;
-    height: 2px;
+    width: 4px;
+    height: 7px;
     margin-right: 5px;
   }
 }
