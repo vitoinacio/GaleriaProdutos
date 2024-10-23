@@ -11,9 +11,9 @@ const Contato = () => {
       <div>
         <h1>Entre em contato.</h1>
         <ul className={styles.dados}>
-          <li>andre@origamid.com</li>
-          <li>99999-9999</li>
-          <li>Rua Ali Perto, 999</li>
+          <li>victor.hugo.ina10@gmail.com</li>
+          <li>(21) 97922-5977</li>
+          <li>Rio de Janeiro, RJ</li>
         </ul>
       </div>
     </section>
