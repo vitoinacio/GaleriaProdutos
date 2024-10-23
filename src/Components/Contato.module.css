@@ -28,4 +28,10 @@
   .dados li {
     font-size: .7rem;
   }
+
+  .dados li::before {
+    width: 10px;
+    height: 2px;
+    margin-right: 5px;
+  }
 }
